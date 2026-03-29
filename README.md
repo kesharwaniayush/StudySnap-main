@@ -394,7 +394,6 @@ copies or substantial portions of the Software.
 
 ### Special Thanks
 
-- **FutureStack AI Hackathon** organizering the this Event
 - **Cerebras** for AI model optimization support
 - **Docker** for containerization and easy deployment
 - **Meta** for open-source contributions and developer resources

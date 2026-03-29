@@ -137,7 +137,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/kesharwaniayush/StudySnap-main.git
-   cd FutureStack_genAI_Hackathon
+   cd StudySnap
    ```
 
 2. **Install frontend dependencies**

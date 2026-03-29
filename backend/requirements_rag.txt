@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+flask
+pymongo
+pinecone-client
+sentence-transformers
+requests
+python-dotenv
+deepgram-sdk
+jwt

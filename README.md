@@ -136,7 +136,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/kesharwaniayush/FutureStack_genAI_Hackathon.git
+   git clone https://github.com/kesharwaniayush/StudySnap-main.git
    cd FutureStack_genAI_Hackathon
    ```
 

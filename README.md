@@ -411,9 +411,6 @@ We believe technology should make quality education accessible to everyone, rega
 <div align="center">
   <h3>🌟 Star this repo if you find it helpful! 🌟</h3>
   
-  [![GitHub stars](https://img.shields.io/github/stars/girish-gaikwad/FutureStack_genAI_Hackathon?style=social)](https://github.com/girish-gaikwad/FutureStack_genAI_Hackathon/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/girish-gaikwad/FutureStack_genAI_Hackathon?style=social)](https://github.com/girish-gaikwad/FutureStack_genAI_Hackathon/network/members)
-  
   **Made with ❤️ for the future of education**
 </div>
 

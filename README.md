@@ -408,11 +408,3 @@ We believe technology should make quality education accessible to everyone, rega
 
 ---
 
-<div align="center">
-  <h3>🌟 Star this repo if you find it helpful! 🌟</h3>
-  
-  **Made with ❤️ for the future of education**
-</div>
-
----
-
